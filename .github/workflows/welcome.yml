@@ -7,4 +7,4 @@ permissions:
 jobs:
   welcome:
     name: Post Welcome comment
-    runs-on: ubnutu-latest
+    runs-on: ubuntu-latest
